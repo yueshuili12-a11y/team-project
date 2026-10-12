@@ -1,6 +1,6 @@
 # team-project
-team leader:
-index.html
-style.css
-script.js
-README.md
+- team leader:
+- index.html
+- style.css
+- script.js
+- README.md
